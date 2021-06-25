@@ -1,0 +1,74 @@
+items = list(input())
+try:
+    items.remove("c")
+except:
+    pass
+try:
+    items.remove("a")
+except:
+    pass
+try:
+    items.remove("m")
+except:
+    pass
+try:
+    items.remove("b")
+except:
+    pass
+try:
+    items.remove("r")
+except:
+    pass
+try:
+    items.remove("i")
+except:
+    pass
+try:
+    items.remove("d")
+except:
+    pass
+try:
+    items.remove("g")
+except:
+    pass
+try:
+    items.remove("e")
+except:
+    pass
+try:
+    items.remove("C")
+except:
+    pass
+try:
+    items.remove("A")
+except:
+    pass
+try:
+    items.remove("M")
+except:
+    pass
+try:
+    items.remove("B")
+except:
+    pass
+try:
+    items.remove("R")
+except:
+    pass
+try:
+    items.remove("I")
+except:
+    pass
+try:
+    items.remove("D")
+except:
+    pass
+try:
+    items.remove("G")
+except:
+    pass
+try:
+    items.remove("E")
+except:
+    pass
+print("".join(items))

@@ -1,0 +1,6 @@
+item = input()
+print(":fan::fan::fan:")
+print(":fan::",end="")
+print(item,end="")
+print("::fan:")
+print(":fan::fan::fan:")

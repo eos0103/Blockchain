@@ -1,0 +1,5 @@
+item_a = int(input())
+item_b = int(input())
+print(item_a+item_b)
+print(item_a-item_b)
+print(item_a*item_b)
